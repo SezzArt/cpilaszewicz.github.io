@@ -1,17 +1,21 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![cpilaszewicz](https://img.shields.io/badge/cezipil-github-blue?logo=github)](https://github.com/SezzArt)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a PhD student at the Department of Mathematics and Computer Science at Freie Universität Berlin.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: cezary.pilaszewicz@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+PhD, Computer Science, Freie Universität Berlin, 2022 - now.\
+M.Sc., Computer Science, Freie Universität Berlin, 2019—2022.\
+B.Sc., Mathematics, Freie Universität Berlin, 2014—2018.
+
+
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Cryptography, Cryptanalysis, IT Security
+
 
