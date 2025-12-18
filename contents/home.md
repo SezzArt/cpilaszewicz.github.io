@@ -1,6 +1,6 @@
 
 
-[![cpilaszewicz](https://img.shields.io/badge/cezipil-github-blue?logo=github)](https://github.com/SezzArt)
+[![cpilaszewicz](https://img.shields.io/badge/SezzArt-github-blue?logo=github)](https://github.com/SezzArt)
 
 He is currently a PhD student at the Department of Mathematics and Computer Science at Freie Universität Berlin.
 
