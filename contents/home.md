@@ -1,7 +1,9 @@
 
 
-[![cpilaszewicz](https://img.shields.io/badge/SezzArt-github-blue?logo=GitHub)](https://github.com/SezzArt)
-[![Email](https://img.shields.io/badge/Email-contact-red?logo=Gmail)](mailto: cezary.pilaszewicz@gmail.com)
+[![cpilaszewicz](https://img.shields.io/badge/SezzArt-GitHub-blue?logo=github)](https://github.com/SezzArt)
+[![Email](https://img.shields.io/badge/Email%20contact-green?logo=gmail)](mailto: cezary.pilaszewicz@gmail.com)
+[![CV](https://img.shields.io/badge/My-CV-blue?logo=readthedocs)](cpilaszewicz.github.io/contents/CV.pdf)
+
 
 
 I am currently enrolled as a PhD student at the Department of Mathematics and Computer Science at Freie Universität Berlin.
