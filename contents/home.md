@@ -1,7 +1,7 @@
 
 
 [![cpilaszewicz](https://img.shields.io/badge/SezzArt-GitHub-blue?logo=github)](https://github.com/SezzArt)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: cezary.pilaszewicz@gmail.com)
+[![Email Badge](https://img.shields.io/badge/cezary.pilaszewicz@gmail.com-green?logo=gmail)](mailto:cezary.pilaszewicz@gmail.com)
 [![CV](https://img.shields.io/badge/CV-8A2BE2?logo=readthedocs)](/contents/CV.pdf)
 
 
