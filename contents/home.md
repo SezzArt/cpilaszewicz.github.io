@@ -1,8 +1,10 @@
 
 
-[![cpilaszewicz](https://img.shields.io/badge/SezzArt-github-blue?logo=github)](https://github.com/SezzArt)
+[![cpilaszewicz](https://img.shields.io/badge/SezzArt-github-blue?logo=GitHub)](https://github.com/SezzArt)
+[![Email](https://img.shields.io/badge/Email-contact-red?logo=Gmail)](mailto: cezary.pilaszewicz@gmail.com)
 
-He is currently a PhD student at the Department of Mathematics and Computer Science at Freie Universität Berlin.
+
+I am currently enrolled as a PhD student at the Department of Mathematics and Computer Science at Freie Universität Berlin.
 
 #### Contact
 
@@ -16,6 +18,6 @@ B.Sc., Mathematics, Freie Universität Berlin, 2014—2018.
 
 
 #### Research Interests
-Cryptography, Cryptanalysis, IT Security
+Cryptography, Cryptanalysis, IT Security, Quantum computation, Quantum algorithms
 
 
